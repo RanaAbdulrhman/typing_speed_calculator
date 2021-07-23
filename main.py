@@ -83,4 +83,3 @@ if __name__ == "__main__":
             best_score = max(scores)
             print(Back.GREEN,f"Your best score was {best_score} \n Keep going! ",Style.RESET_ALL)
             break
- 

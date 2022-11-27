@@ -1,4 +1,4 @@
-# Typing_speed_calculator
+# Typing speed calculator
 Measure your typing speed from terminal
 
 
